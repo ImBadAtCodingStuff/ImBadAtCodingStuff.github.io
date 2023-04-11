@@ -1,0 +1,13 @@
+.main {
+  background-color: lightgreen;
+}
+.stuff {
+  background-color: lightgray;
+  margin: 20px;
+}
+.new {
+  background-color: lightcyan;
+}
+html {
+  background-color: rgb(20, 80, 90);
+}
